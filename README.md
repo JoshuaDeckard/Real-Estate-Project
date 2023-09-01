@@ -1,9 +1,9 @@
 # React and Tailwind Real Estate Project
 
-This repository contains a practice Real Estate Project completed during the summer of 2023. 
+This repository contains a practice Real Estate Project completed during the summer of 2023.
 
 ## Project Overview
-The main objective of this project was to further improve my web development skills by building a practical website. Throughout the process, I enhanced my React and Tailwind CSS knowledge. I was also able to refine my proficiency in JavaScript, HTML, and CSS. The original project, created byCristian Mihai(GitHub:(https://github.com/cristianmihai01)), served as a great learning resource. I fixed certain issues and bugs that were present in the original source code, particularly those related to responsive design. I fixed minor issues, such as misaligned price range selections and unintended borders on the header, which improved user experience among other things. 
+The main objective of this project was to further improve my web development skills by building a practical website. Throughout the process, I enhanced my React and Tailwind CSS knowledge. I was also able to refine my proficiency in JavaScript, HTML, and CSS. The original project, created by Cristian Mihai, served as a great learning resource. I fixed certain issues and bugs that were present in the original source code, particularly those related to responsive design. I fixed minor issues, such as misaligned price range selections and unintended borders on the header, which improved user experience among other things.
 
 ## Key Achievments
 - Designed a practical website using React and Tailwind CSS
@@ -14,8 +14,10 @@ The main objective of this project was to further improve my web development ski
 ## Dependencies
 - React
 - React DOM
+
 ## Dev Dependencies
 - Tailwind CSS
 - React icons
+
 ## Scripts
 - npm start
