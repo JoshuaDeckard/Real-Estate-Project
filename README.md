@@ -10,3 +10,12 @@ The main objective of this project was to further improve my web development ski
 - Strengthened my modular programming skills by splitting up the website into components. This made the code more maintainable.
 - Resolved bugs and formatting issues present in the source code
 - Made the website more responsive on smaller devices
+
+## Dependencies
+- React
+- React DOM
+## Dev Dependencies
+- Tailwind CSS
+- React icons
+## Scripts
+- npm start
