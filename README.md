@@ -21,3 +21,5 @@ The main objective of this project was to further improve my web development ski
 
 ## Scripts
 - npm start
+## Example Work
+![Example website photo](public/ExamplePhoto1)
