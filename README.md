@@ -22,12 +22,15 @@ The main objective of this project was to further improve my web development ski
 ## Scripts
 - npm start
 ## Example Work
-
+Homepage View
 ![Example website photo](public/ExamplePhoto1.png)
 
+Search Bar functionality
 ![Example website photo](public/ExamplePhoto2.png)
 
+House List View 
 ![Example website photo](public/ExamplePhoto3.png)
 
+House Detailed View
 ![Example website photo](public/ExamplePhoto4.png)
 
