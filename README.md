@@ -22,15 +22,16 @@ The main objective of this project was to further improve my web development ski
 ## Scripts
 - npm start
 ## Example Work
-Homepage View
-![Example website photo](public/ExamplePhoto1.png)
 
-Search Bar functionality
-![Example website photo](public/ExamplePhoto2.png)
+## Homepage View
+![Example website photo](src/assets/img/example-photos/ExamplePhoto1.png
 
-House List View 
-![Example website photo](public/ExamplePhoto3.png)
+## Search Bar functionality
+![Example website photo](src/assets/img/example-photos/ExamplePhoto2.png
 
-House Detailed View
-![Example website photo](public/ExamplePhoto4.png)
+## House List View 
+![Example website photo](src/assets/img/example-photos/ExamplePhoto3.png
+
+## House Detailed View
+![Example website photo](src/assets/img/example-photos/ExamplePhoto4.png
 
