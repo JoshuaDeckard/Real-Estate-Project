@@ -24,7 +24,10 @@ The main objective of this project was to further improve my web development ski
 ## Example Work
 
 ![Example website photo](public/ExamplePhoto1.png)
+
 ![Example website photo](public/ExamplePhoto2.png)
+
 ![Example website photo](public/ExamplePhoto3.png)
+
 ![Example website photo](public/ExamplePhoto4.png)
 
