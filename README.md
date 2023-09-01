@@ -24,14 +24,14 @@ The main objective of this project was to further improve my web development ski
 ## Example Work
 
 ## Homepage View
-![Example website photo](src/assets/img/example-photos/ExamplePhoto1.png
+![Example website photo](src/assets/img/example-photos/ExamplePhoto1.png)
 
 ## Search Bar functionality
-![Example website photo](src/assets/img/example-photos/ExamplePhoto2.png
+![Example website photo](src/assets/img/example-photos/ExamplePhoto2.png)
 
 ## House List View 
-![Example website photo](src/assets/img/example-photos/ExamplePhoto3.png
+![Example website photo](src/assets/img/example-photos/ExamplePhoto3.png)
 
 ## House Detailed View
-![Example website photo](src/assets/img/example-photos/ExamplePhoto4.png
+![Example website photo](src/assets/img/example-photos/ExamplePhoto4.png)
 
